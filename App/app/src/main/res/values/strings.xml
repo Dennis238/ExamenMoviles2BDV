@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Peliculas y Actores</string>
+    <string name="pelicula">Pelicula</string>
+    <string name="actor">Actor</string>
+    <string name="details_btn">Detalles</string>
+    <string name="create_btn">Guardar</string>
+    <string name="create">Crear</string>
+    <string name="list_btn">Listar</string>
+    <string name="new_btn">Nuevo</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="menu_share">Compartir</string>
+    <string name="details_actor">Detalles Actor</string>
+    <string name="create_actor">Creacion Actor</string>
+    <string name="edit_actor">Editar Actor</string>
+    <string name="details_book">Detalles Pelicula</string>
+    <string name="create_book">Creacion Pelicula</string>
+    <string name="edit_book">Editar Pelicula</string>
+    <string name="book_listt">Lista Peliculas</string>
+    <string name="name">Nombre:</string>
+    <string name="last_name">Apellido:</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="numero_peliculas">Numero Peliculas:</string>
+    <string name="ecuatoriano">Ecuatoriano:</string>
+    <string name="sinopsis">ISBN:</string>
+    <string name="numero_estrellas">Numero Estrellas:</string>
+    <string name="edicion">Edicion:</string>
+    <string name="fecha_publicacion">Fecha Publicacion:</string>
+    <string name="rating">Editorial:</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="maps">Mapa</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="confirmation">Seguro desea eliminar?</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
